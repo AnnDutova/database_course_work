@@ -1,0 +1,5 @@
+bind_addr = ":8080"
+log_level = "debug"
+
+[store]
+database_url = "user:123456@tcp(localhost:3306)/test_work"
